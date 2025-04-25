@@ -1,0 +1,12 @@
+# direnv
+.direnv
+
+# Build directories
+build*/
+
+# Generated files
+*.inc
+
+# Editor files
+.vscode/
+.idea/
